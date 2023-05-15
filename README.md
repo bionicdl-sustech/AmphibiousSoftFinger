@@ -1,8 +1,8 @@
-# SVAE for Soft Finger Force Prediction
+# Autoencoding a Soft Touch to Learn Grasping Underwater
 
 This repository contains the implementation of the Supervised Variational Autoencoder for Soft Finger Force Prediction from the paper:
 
-**Autoencoding a Soft Touch to Learn Grasping Underwater**
+
 
 *[Ning Guo](https://gabriel-ning.github.io/), Xudong Han, Xiaobo Liu, Shuqiao Zhong, Zhiyuan Zhou, Jian Lin, Jiansheng Dai, Fang Wan**, Chaoyang Song*
 

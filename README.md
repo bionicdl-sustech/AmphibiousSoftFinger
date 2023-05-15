@@ -5,7 +5,7 @@ This repository contains the implementation of the Supervised Variational Autoen
 **Autoencoding a Soft Touch to Learn Grasping Underwater**
 
 *[Ning Guo](https://gabriel-ning.github.io/), Xudong Han, Xiaobo Liu, Shuqiao Zhong, Zhiyuan Zhou, Jian Lin, Jiansheng Dai, Fang Wan**, 
-Chaoyang Song*
+  Chaoyang Song*
 
 
 ## Graphic Abstract

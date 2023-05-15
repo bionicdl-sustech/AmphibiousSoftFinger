@@ -7,6 +7,7 @@ This repository contains the implementation of the Supervised Variational Autoen
 *[Ning Guo](https://gabriel-ning.github.io/), Xudong Han, Xiaobo Liu, Fang Wan**, Chaoyang Song*
 
 
+## Graphic Abstract
 ![fig-UnderConstruction](https://github.com/bionicdl-sustech/AmphibiousSoftFinger/assets/42087775/13cc72c4-1a82-41fe-814f-e9fe4bb2f802)
 
 

@@ -3,7 +3,7 @@
 
 
 ## Graphic Abstract
-![fig-UnderConstruction](https://github.com/bionicdl-sustech/AmphibiousSoftFinger/assets/42087775/13cc72c4-1a82-41fe-814f-e9fe4bb2f802)
+![graphical_abstract](https://github.com/bionicdl-sustech/AmphibiousSoftFinger/assets/42087775/6b8aeedf-3895-4105-977d-6d2db1ae758d)
 
 
 ## Datasets

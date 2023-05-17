@@ -32,6 +32,14 @@ This code was developed with Python 3.8 on Ubuntu 18.04.  Additional Python pack
 - skimage
 - PILLOW
 
+## Supplementary Videos
+Movie S1 Amphibian Grasping with Visual-Tactile Soft Finger.
+
+
+https://github.com/bionicdl-sustech/AmphibiousSoftFinger/assets/42087775/6b174823-5098-4b22-b3b1-d1dfa4ef5bca
+
+
+
 
 ## Links
 

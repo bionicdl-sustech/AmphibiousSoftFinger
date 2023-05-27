@@ -50,7 +50,6 @@ class VisualFingerForceNet_v2(LightningModule) :
         weight_decay: float = 0.0005,
         drop_out: float = 0.5,
         relative_f_t = 1.0,
-        seq_len: int = 3
     ):
         super().__init__()
         self.save_hyperparameters()

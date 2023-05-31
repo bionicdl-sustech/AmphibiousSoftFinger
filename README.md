@@ -1,4 +1,4 @@
-# Autoencoding a Soft Touch to Learn Grasping Underwater
+# Autoencoding a Soft Touch to Learn Grasping from On-land to Underwater
 *Ning Guo, Xudong Han, Xiaobo Liu, Shuqiao Zhong, Zhiyuan Zhou, Jian Lin, Jiansheng Dai, Fang Wan**, Chaoyang Song*
 
 
